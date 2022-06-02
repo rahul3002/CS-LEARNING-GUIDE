@@ -1,4 +1,18 @@
 # CS-LEARNING-GUIDE
+
+# [Placment Calendar for Fresher in Off Campus Recruitment](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Demo.md)
+
+
+
+
+
+
+
+
+
+
+
+
 # A to Z Resources for Students 
 
 
