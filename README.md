@@ -3,7 +3,7 @@
 # [Placment Calendar for Fresher in Off Campus Recruitment](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Demo.md)
 
 # [List of Service based and Product based companies](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Companies.md)
-
+# [List of USA Companies](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Easy-Application-USA.md)
 
 
 
