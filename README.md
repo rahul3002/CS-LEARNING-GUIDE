@@ -5,7 +5,7 @@
 # [List of Service based and Product based companies](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Companies.md)
 # [List of USA Companies](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Easy-Application-USA.md)
 
-
+# [Python Interview Tricks](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Python-Interview-Tricks.md)
 
 
 
