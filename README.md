@@ -6,7 +6,7 @@
 # [List of USA Companies](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Easy-Application-USA.md)
 
 # [Python Interview Tricks](https://github.com/Rahul7171/CS-LEARNING-GUIDE/blob/main/Python-Interview-Tricks.md)
-# [Engineering Blogs]()
+# [Engineering Blogs](https://github.com/rahul3002/CS-LEARNING-GUIDE/blob/main/EngineeringBlogs.md)
 
 
 
